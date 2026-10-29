@@ -1,0 +1,19 @@
+﻿# Environment variables (CRITICAL: contains API keys)
+.env
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+*.class
+venv/
+env/
+.venv/
+
+# Streamlit logs & cache
+.streamlit/secrets.toml
+
+# OS & IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
