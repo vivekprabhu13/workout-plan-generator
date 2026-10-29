@@ -13,26 +13,13 @@
 
 ### Video Walkthrough
 
-GitHub's Markdown renderer strips raw interactive `<iframe>` embeds for security. Below you can view or stream the full demo video directly, along with the project demo assets:
+You can view or stream the full demo video directly using below link :
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1pFqCj_QwADz9L3Q4jtzNZltk1eTR-P9F/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/▶%20Watch%20Demo%20Video-Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Watch Demo Video" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://drive.google.com/drive/u/0/folders/1c-QvGzPN56LwBHN7ZvlcJ77oXtH0PtTj" target="_blank">
-    <img src="https://img.shields.io/badge/📁%20Open%20Shared%20Folder-Google%20Drive-34A853?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Open Shared Folder" />
-  </a>
 </p>
-
-* 🔗 **Direct Video Stream:** [Google Drive Video Link](https://drive.google.com/file/d/1pFqCj_QwADz9L3Q4jtzNZltk1eTR-P9F/view?usp=sharing)
-* 📂 **Demo Assets Folder:** [Google Drive Shared Folder](https://drive.google.com/drive/u/0/folders/1c-QvGzPN56LwBHN7ZvlcJ77oXtH0PtTj)
-
-> **Note for documentation sites (Docusaurus, MkDocs, or HTML portfolios):**  
-> You can embed the interactive player directly with the following code snippet:
-> ```html
-> <iframe src="https://drive.google.com/file/d/1pFqCj_QwADz9L3Q4jtzNZltk1eTR-P9F/preview" width="100%" height="480" allow="autoplay"></iframe>
-> ```
 
 ---
 
