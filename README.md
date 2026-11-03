@@ -68,7 +68,7 @@ flowchart TD
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/workout-plan-generator.git
+git clone https://github.com/vivekprabhu13/workout-plan-generator.git
 cd workout-plan-generator
 ```
 
